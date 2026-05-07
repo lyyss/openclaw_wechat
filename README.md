@@ -249,7 +249,10 @@ openclaw status
 ```
 
 ---
-
+## 十。一、要请好友添加微信机器人
+```bash
+openclaw channels login --channel openclaw-weixin
+```
 ## 十一、微信白名单配置（可选）
 
 如果想限制只有特定人可以使用，编辑配置：

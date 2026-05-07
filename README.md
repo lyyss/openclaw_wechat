@@ -258,6 +258,7 @@ openclaw status
 openclaw channels login --channel openclaw-weixin
 ```
 终端会显示一个二维码，截图发给朋友
+
 2.朋友在手机微信里：设置 → 插件 → 微信ClawBot → 扫你发的二维码
 扫码成功后，朋友的微信里会出现"微信ClawBot"联系人，发消息就能用了
 
